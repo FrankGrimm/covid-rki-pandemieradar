@@ -10,6 +10,7 @@ Script to extract data from the [Pandemieradar](https://www.rki.de/DE/Content/In
 
 Note that this repository does not contain DIVI indicators available in the dashboard due to their odd licensing.
 
+screenshot: 
 ![screenshot](https://github.com/FrankGrimm/covid-rki-pandemieradar/blob/main/screenshot.png?raw=true)
 
 ## running the project
