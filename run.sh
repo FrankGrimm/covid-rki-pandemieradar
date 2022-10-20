@@ -16,6 +16,8 @@ node index.js "$LASTFILE"
 # export data
 node tocsv.js
 
+python3 new_file_report.py
+
 git add screenshot.png data/
 git commit -m "$(date +%F)"
 git push
