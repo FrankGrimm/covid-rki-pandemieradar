@@ -1,0 +1,168 @@
+Week, difference, region, region_id, trend, value
+2020-W11, , Brandenburg, 12, , 
+2020-W12, , Brandenburg, 12, , 
+2020-W13, 1, Brandenburg, 12, 0.0667, 1
+2020-W14, 15, Brandenburg, 12, 1, 16
+2020-W15, 7, Brandenburg, 12, 0.4667, 23
+2020-W16, 5, Brandenburg, 12, 0.3333, 28
+2020-W17, 6, Brandenburg, 12, 0.4, 34
+2020-W18, -12, Brandenburg, 12, -0.6316, 22
+2020-W19, -9, Brandenburg, 12, -0.4737, 13
+2020-W20, , Brandenburg, 12, , 13
+2020-W21, -8, Brandenburg, 12, -0.4211, 5
+2020-W22, -3, Brandenburg, 12, -0.1579, 2
+2020-W23, 1, Brandenburg, 12, 0.0667, 3
+2020-W24, , Brandenburg, 12, , 3
+2020-W25, -3, Brandenburg, 12, -0.1579, 
+2020-W26, 2, Brandenburg, 12, 0.1333, 2
+2020-W27, -1, Brandenburg, 12, -0.0526, 1
+2020-W28, -1, Brandenburg, 12, -0.0526, 
+2020-W29, , Brandenburg, 12, , 
+2020-W30, 1, Brandenburg, 12, 0.0667, 1
+2020-W31, -1, Brandenburg, 12, -0.0526, 
+2020-W32, 1, Brandenburg, 12, 0.0667, 1
+2020-W33, -1, Brandenburg, 12, -0.0526, 
+2020-W34, , Brandenburg, 12, , 
+2020-W35, , Brandenburg, 12, , 
+2020-W36, , Brandenburg, 12, , 
+2020-W37, , Brandenburg, 12, , 
+2020-W38, , Brandenburg, 12, , 
+2020-W39, , Brandenburg, 12, , 
+2020-W40, , Brandenburg, 12, , 
+2020-W41, 1, Brandenburg, 12, 0.0667, 1
+2020-W42, 2, Brandenburg, 12, 0.1333, 3
+2020-W43, 9, Brandenburg, 12, 0.6, 12
+2020-W44, -1, Brandenburg, 12, -0.0526, 11
+2020-W45, 9, Brandenburg, 12, 0.6, 20
+2020-W46, , Brandenburg, 12, , 20
+2020-W47, 21, Brandenburg, 12, 1.4, 41
+2020-W48, 15, Brandenburg, 12, 1, 56
+2020-W49, 27, Brandenburg, 12, 1.8, 83
+2020-W50, -19, Brandenburg, 12, -1, 64
+2020-W51, 98, Brandenburg, 12, 6.5333, 162
+2020-W52, -34, Brandenburg, 12, -1.7895, 128
+2020-W53, 83, Brandenburg, 12, 5.5333, 211
+2021-W01, 81, Brandenburg, 12, 5.4, 292
+2021-W02, 20, Brandenburg, 12, 1.3333, 312
+2021-W03, -4, Brandenburg, 12, -0.2105, 308
+2021-W04, 63, Brandenburg, 12, 4.2, 371
+2021-W05, -40, Brandenburg, 12, -2.1053, 331
+2021-W06, -174, Brandenburg, 12, -9.1579, 157
+2021-W07, -30, Brandenburg, 12, -1.5789, 127
+2021-W08, -35, Brandenburg, 12, -1.8421, 92
+2021-W09, 4, Brandenburg, 12, 0.2667, 96
+2021-W10, -34, Brandenburg, 12, -1.7895, 62
+2021-W11, 24, Brandenburg, 12, 1.6, 86
+2021-W12, -43, Brandenburg, 12, -2.2632, 43
+2021-W13, -2, Brandenburg, 12, -0.1053, 41
+2021-W14, 12, Brandenburg, 12, 0.8, 53
+2021-W15, 25, Brandenburg, 12, 1.6667, 78
+2021-W16, -27, Brandenburg, 12, -1.4211, 51
+2021-W17, 22, Brandenburg, 12, 1.4667, 73
+2021-W18, -17, Brandenburg, 12, -0.8947, 56
+2021-W19, -14, Brandenburg, 12, -0.7368, 42
+2021-W20, -16, Brandenburg, 12, -0.8421, 26
+2021-W21, 4, Brandenburg, 12, 0.2667, 30
+2021-W22, -14, Brandenburg, 12, -0.7368, 16
+2021-W23, -2, Brandenburg, 12, -0.1053, 14
+2021-W24, 19, Brandenburg, 12, 1.2667, 33
+2021-W25, -24, Brandenburg, 12, -1.2632, 9
+2021-W26, 3, Brandenburg, 12, 0.2, 12
+2021-W27, -7, Brandenburg, 12, -0.3684, 5
+2021-W28, -1, Brandenburg, 12, -0.0526, 4
+2021-W29, -3, Brandenburg, 12, -0.1579, 1
+2021-W30, -1, Brandenburg, 12, -0.0526, 
+2021-W31, 1, Brandenburg, 12, 0.0667, 1
+2021-W32, -1, Brandenburg, 12, -0.0526, 
+2021-W33, , Brandenburg, 12, , 
+2021-W34, 4, Brandenburg, 12, 0.2667, 4
+2021-W35, , Brandenburg, 12, , 4
+2021-W36, -3, Brandenburg, 12, -0.1579, 1
+2021-W37, 5, Brandenburg, 12, 0.3333, 6
+2021-W38, 3, Brandenburg, 12, 0.2, 9
+2021-W39, , Brandenburg, 12, , 9
+2021-W40, 5, Brandenburg, 12, 0.3333, 14
+2021-W41, -9, Brandenburg, 12, -0.4737, 5
+2021-W42, 31, Brandenburg, 12, 2.0667, 36
+2021-W43, -14, Brandenburg, 12, -0.7368, 22
+2021-W44, 6, Brandenburg, 12, 0.4, 28
+2021-W45, 3, Brandenburg, 12, 0.2, 31
+2021-W46, 24, Brandenburg, 12, 1.6, 55
+2021-W47, 3, Brandenburg, 12, 0.2, 58
+2021-W48, 55, Brandenburg, 12, 3.6667, 113
+2021-W49, 8, Brandenburg, 12, 0.5333, 121
+2021-W50, 15, Brandenburg, 12, 1, 136
+2021-W51, -4, Brandenburg, 12, -0.2105, 132
+2021-W52, -35, Brandenburg, 12, -1.8421, 97
+2022-W01, 15, Brandenburg, 12, 1, 112
+2022-W02, -37, Brandenburg, 12, -1.9474, 75
+2022-W03, 12, Brandenburg, 12, 0.8, 87
+2022-W04, -46, Brandenburg, 12, -2.4211, 41
+2022-W05, -18, Brandenburg, 12, -0.9474, 23
+2022-W06, 32, Brandenburg, 12, 2.1333, 55
+2022-W07, -3, Brandenburg, 12, -0.1579, 52
+2022-W08, -6, Brandenburg, 12, -0.3158, 46
+2022-W09, -5, Brandenburg, 12, -0.2632, 41
+2022-W10, 30, Brandenburg, 12, 2, 71
+2022-W11, -25, Brandenburg, 12, -1.3158, 46
+2022-W12, , Brandenburg, 12, , 46
+2022-W13, 1, Brandenburg, 12, 0.0667, 47
+2022-W14, -9, Brandenburg, 12, -0.4737, 38
+2022-W15, -16, Brandenburg, 12, -0.8421, 22
+2022-W16, 18, Brandenburg, 12, 1.2, 40
+2022-W17, -12, Brandenburg, 12, -0.6316, 28
+2022-W18, 4, Brandenburg, 12, 0.2667, 32
+2022-W19, 2, Brandenburg, 12, 0.1333, 34
+2022-W20, -8, Brandenburg, 12, -0.4211, 26
+2022-W21, -13, Brandenburg, 12, -0.6842, 13
+2022-W22, -1, Brandenburg, 12, -0.0526, 12
+2022-W23, 4, Brandenburg, 12, 0.2667, 16
+2022-W24, -2, Brandenburg, 12, -0.1053, 14
+2022-W25, -7, Brandenburg, 12, -0.3684, 7
+2022-W26, -1, Brandenburg, 12, -0.0526, 6
+2022-W27, 4, Brandenburg, 12, 0.2667, 10
+2022-W28, 1, Brandenburg, 12, 0.0667, 11
+2022-W29, 4, Brandenburg, 12, 0.2667, 15
+2022-W30, -1, Brandenburg, 12, -0.0526, 14
+2022-W31, 14, Brandenburg, 12, 0.9333, 28
+2022-W32, -9, Brandenburg, 12, -0.4737, 19
+2022-W33, 8, Brandenburg, 12, 0.5333, 27
+2022-W34, -12, Brandenburg, 12, -0.6316, 15
+2022-W35, -3, Brandenburg, 12, -0.1579, 12
+2022-W36, -5, Brandenburg, 12, -0.2632, 7
+2022-W37, 8, Brandenburg, 12, 0.5333, 15
+2022-W38, -3, Brandenburg, 12, -0.1579, 12
+2022-W39, 6, Brandenburg, 12, 0.4, 18
+2022-W40, , Brandenburg, 12, , 18
+2022-W41, 15, Brandenburg, 12, 1, 33
+2022-W42, -1, Brandenburg, 12, -0.0526, 32
+2022-W43, 3, Brandenburg, 12, 0.2, 35
+2022-W44, , Brandenburg, 12, , 35
+2022-W45, -7, Brandenburg, 12, -0.3684, 28
+2022-W46, 14, Brandenburg, 12, 0.9333, 42
+2022-W47, -19, Brandenburg, 12, -1, 23
+2022-W48, 6, Brandenburg, 12, 0.4, 29
+2022-W49, -2, Brandenburg, 12, -0.1053, 27
+2022-W50, 1, Brandenburg, 12, 0.0667, 28
+2022-W51, 8, Brandenburg, 12, 0.5333, 36
+2022-W52, -12, Brandenburg, 12, -0.6316, 24
+2023-W01, 14, Brandenburg, 12, 0.9333, 38
+2023-W02, -2, Brandenburg, 12, -0.1053, 36
+2023-W03, -9, Brandenburg, 12, -0.4737, 27
+2023-W04, -9, Brandenburg, 12, -0.4737, 18
+2023-W05, -1, Brandenburg, 12, -0.0526, 17
+2023-W06, -3, Brandenburg, 12, -0.1579, 14
+2023-W07, -7, Brandenburg, 12, -0.3684, 7
+2023-W08, 2, Brandenburg, 12, 0.1333, 9
+2023-W09, 10, Brandenburg, 12, 0.6667, 19
+2023-W10, -4, Brandenburg, 12, -0.2105, 15
+2023-W11, 1, Brandenburg, 12, 0.0667, 16
+2023-W12, -1, Brandenburg, 12, -0.0526, 15
+2023-W13, 11, Brandenburg, 12, 0.7333, 26
+2023-W14, -11, Brandenburg, 12, -0.5789, 15
+2023-W15, 11, Brandenburg, 12, 0.7333, 26
+2023-W16, -11, Brandenburg, 12, -0.5789, 15
+2023-W17, 2, Brandenburg, 12, 0.1333, 17
+2023-W18, -4, Brandenburg, 12, -0.2105, 13
+2023-W19, -5, Brandenburg, 12, -0.2632, 8
+2023-W20, -5, Brandenburg, 12, -0.2632, 3
